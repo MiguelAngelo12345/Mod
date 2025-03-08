@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "group": "aquaridium",
+  "ingredient": {
+    "item": "tutorialmod:aquaridium_deepslate_ore"
+  },
+  "result": {
+    "id": "tutorialmod:aquaridium_scrap"
+  }
+}

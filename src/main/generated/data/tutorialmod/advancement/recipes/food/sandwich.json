@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_c:crops/sugar_cane": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:crops/sugar_cane"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_c:foods/bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:foods/bread"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_c:foods/cooked_meat": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:foods/cooked_meat"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tutorialmod:sandwich"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_c:foods/bread",
+      "has_c:foods/cooked_meat",
+      "has_c:crops/sugar_cane"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:sandwich"
+    ]
+  }
+}

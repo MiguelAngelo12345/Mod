@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_firidium_end_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tutorialmod:firidium_end_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:firidium_ingot_from_smelting_firidium_end_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_firidium_end_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:firidium_ingot_from_smelting_firidium_end_ore"
+    ]
+  }
+}

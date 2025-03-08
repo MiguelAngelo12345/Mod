@@ -1,0 +1,5 @@
+// 1.21.1	2025-03-08T00:13:31.2758901	Tutorial Mod/Tags for minecraft:block
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\tutorialmod\tags\block\incorrect_for_aquaridium_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\tutorialmod\tags\block\incorrect_for_firidium_tool.json
+fe122c894bab03ae80e0f3abf4d4b487ffb92297 data\minecraft\tags\block\needs_diamond_tool.json
+fe122c894bab03ae80e0f3abf4d4b487ffb92297 data\minecraft\tags\block\mineable\pickaxe.json

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "aquaridium",
+  "ingredient": {
+    "item": "tutorialmod:aquaridium_deepslate_ore"
+  },
+  "result": {
+    "id": "tutorialmod:aquaridium_scrap"
+  }
+}

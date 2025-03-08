@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "c:crops/sugar_cane"
+    },
+    "E": {
+      "tag": "c:foods/bread"
+    },
+    "H": {
+      "tag": "c:foods/cooked_meat"
+    }
+  },
+  "pattern": [
+    " E ",
+    " H ",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:sandwich"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "tutorialmod:aquaridium_block",
+    "tutorialmod:aquaridium_overworld_ore",
+    "tutorialmod:aquaridium_deepslate_ore",
+    "tutorialmod:aquaridium_nether_ore",
+    "tutorialmod:aquaridium_end_ore",
+    "tutorialmod:firidium_block",
+    "tutorialmod:firidium_overworld_ore",
+    "tutorialmod:firidium_deepslate_ore",
+    "tutorialmod:firidium_nether_ore",
+    "tutorialmod:firidium_end_ore"
+  ]
+}

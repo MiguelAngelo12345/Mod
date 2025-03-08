@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "tutorialmod:firidium_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "E E",
+    "E E"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:firidium_boots"
+  }
+}
